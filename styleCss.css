@@ -58,7 +58,7 @@ tr:nth-child(1)  td:nth-child(3) {
     background-color: #dc241f;
 }
 
-tr:nth-child(1)  td:nth-child(2) {
+tr:first-child  td:nth-child(2) {
     background-color: #00a4e4;
 }
 
